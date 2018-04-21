@@ -57,6 +57,7 @@
       <find>all</find>
       <find>rule</find>
       <find>main</find>
+      <find>key</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
